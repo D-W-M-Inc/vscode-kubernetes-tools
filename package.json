@@ -1820,7 +1820,7 @@
         "electron": "^13.1.4",
         "eslint": "^7.29.0",
         "file-loader": "^6.2.0",
-        "gulp": "^4.0.2",
+        "gulp": "^5.0.0",
         "gulp-tslint": "^8.1.2",
         "html-webpack-plugin": "^4.2.0",
         "mocha": "^8.1.3",
